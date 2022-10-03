@@ -8,3 +8,5 @@
 
 ### 추가 계획
   프로젝트 부분 사이즈 줄어드는 경우에 list 개수 조정 
+### 실행 url
+https://yjlee9909.github.io/Resume_contest_Tailwind_CSS/
