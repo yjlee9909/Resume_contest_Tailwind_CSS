@@ -7,6 +7,8 @@
 <img src="https://user-images.githubusercontent.com/63508955/193559790-00e98039-5ec2-480f-b5ef-3fe5ac9c63ad.png" width="60%" height="60%">
 
 ### 추가 계획
-  프로젝트 부분 사이즈 줄어드는 경우에 list 개수 조정 
+  프로젝트 부분 사이즈 줄어드는 경우에 list 개수 조정 예정
+  반응형 추가 예정
+  
 ### 실행 url
 https://yjlee9909.github.io/Resume_contest_Tailwind_CSS/
