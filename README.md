@@ -1,1 +1,4 @@
-# Resume_contest_Tailwind_CSS
+# 천하제일 이력서 대회
+
+### Tailwind CSS를 사용하여 이력서를 작성하였습니다.
+
