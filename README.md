@@ -12,3 +12,8 @@
   
 ### 실행 url
 https://yjlee9909.github.io/Resume_contest_Tailwind_CSS/
+
+----
+### 🏆 이력서 우수상 🏆 
+
+![우수상_이유진](https://user-images.githubusercontent.com/63508955/196690497-b27226d8-8d57-406f-9250-7b6be983c717.png)
